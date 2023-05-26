@@ -1,7 +1,7 @@
 pip install flask-mysqldb
 pip install Flask-WTF
 pip install passlib
-keras
-tensorflow
-numpy
-nltk
+pip install keras
+pip install tensorflow
+pip install numpy
+pip install nltk
